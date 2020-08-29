@@ -1,1 +1,1 @@
-This is Treybr3's First GIt project! 
+This is treybr3's first git project! 
